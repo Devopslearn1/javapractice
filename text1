@@ -1,2 +1,10 @@
  I am writing something from first commit
+<<<<<<< HEAD
+ 
+=======
  we devoloping some code and push to remote repository
+ we are adding few more content
+<<<<<<< HEAD
+>>>>>>> 955e13f9a9a0118969e439900316d837994fb745
+=======
+>>>>>>> 955e13f9a9a0118969e439900316d837994fb745
